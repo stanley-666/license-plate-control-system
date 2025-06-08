@@ -1,3 +1,7 @@
+# license-plate-online-inference model
+device : Raspiberry pi 5
+os : raspi
+
 # 檔案結構
 ```
 LICENSE-PLATE-CONTROL-SYSTEM
