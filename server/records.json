@@ -1,0 +1,28 @@
+{
+    "car_plate":[
+        {
+            "plate_number": "NBC-5516",
+            "registered": "NO",
+            "start_time": 0,
+            "end_time": 0,
+            "total_time": 0,
+            "amounts": 0
+        },
+        {
+            "plate_number": "AQW-0237",
+            "registered": "YES",
+            "start_time": 0,
+            "end_time": 0,
+            "total_time": 0,
+            "amounts": 0
+        },
+        {
+            "plate_number": "NBX-3388",
+            "registered": "YES",
+            "start_time": 0,
+            "end_time": 0,
+            "total_time": 0,
+            "amounts": 0
+        }
+    ]
+}
